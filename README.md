@@ -48,5 +48,3 @@ before a push actually flows end to end - see platform-cicd's `docs/onboarding.m
    `imagePullSecrets`) - or just make the package public and skip this.
 5. Push this repo to `github.com/jfillman/nodejs-demo-app`, install the platform's
    GitHub App on it, create the PaC `Repository` CR.
-
-   
